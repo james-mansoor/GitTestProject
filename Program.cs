@@ -7,8 +7,7 @@ namespace GitTestProject
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello James, do you get it yet?");
-
+Console.WriteLine("Nope, I'm just as lost as you");
         }
     }
 }
