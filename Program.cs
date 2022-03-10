@@ -6,10 +6,10 @@ namespace GitTestProject
     {
         static void Main(string[] args)
         {
- Tim_Branch_Test
-            
 
-            Console.WriteLine("Hello James take two!");
+
+
+            Console.WriteLine("This is a change in my local branch.");
         }
     }
 }
